@@ -86,6 +86,9 @@ Eclipse 搭建SpringMVC
 整合SpringMVC和mybits
         表现层  SpringMVC
         业务层  service
-        持久层  mybatis
+        持久层  mybatis    扫描器配置多个路径中间使用逗号隔开
+        
+       
     
+            
         
